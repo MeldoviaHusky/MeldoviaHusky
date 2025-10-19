@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is Tris's NU Github Account.
+
 <!--
 **MeldoviaHusky/MeldoviaHusky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
